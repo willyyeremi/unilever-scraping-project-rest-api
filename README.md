@@ -1,5 +1,5 @@
-# Unilever Scrapper: API
-This is a sub-repository for REST API related project.
+# Unilever Scrapper: REST-API
+This is a sub-repository for the REST-API related project.
 
 ## Gateway
 
