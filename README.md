@@ -1,7 +1,7 @@
 # Unilever Scraping: REST-API
 This is a sub-repository for the REST-API related project.
 
-## Gateway
+## Auth Gateway
 https://github.com/willyyeremi/unilever-scraper-rest-auth-gateway
 
 ## API v1
